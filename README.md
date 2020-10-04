@@ -35,4 +35,4 @@ To download the Jupyter notebook script :
               Go to location where you saved .ipynb file
               Open file, you will see the code
 
-If you are more skillful with GitHube you can use one of teh cloning services (i.e. git)
+If you are more skillful with GitHube you can use one of the cloning services (i.e. git)
