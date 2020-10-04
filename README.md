@@ -24,11 +24,13 @@ At the ed of your process you will find for each TT a series of files :
               the file contains the list of TTs with last date of transmission and battery voltage
 
 
-To download the JUpyter notebook script :
+To download the Jupyter notebook script :
 
 
-  First click on Raw
-  Then, press ctrl+s to save it as .ipynb (Note that you'll have to manually type '.ipynb' after the file name to make this work, as files from GitHub are saved as   text files as default.)
-  Open jupyter notebook
-  Go to location where you saved .ipynb file
-  Open file, you will see the code
+
+              First click on Raw
+              Then, press ctrl+s to save it as .ipynb (Note that you'll have to manually type '.ipynb' after the file name to make this work
+              as files from GitHub are saved as   text files as default.)
+              Open jupyter notebook
+              Go to location where you saved .ipynb file
+              Open file, you will see the code
